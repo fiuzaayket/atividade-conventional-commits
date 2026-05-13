@@ -1,0 +1,2 @@
+feat(api)!: renomeia campo userName para fullName
+BREAKING CHANGE: o campo userName foi removido da resposta da API
